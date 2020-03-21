@@ -1,0 +1,250 @@
+{
+    "1": {
+        "100": {
+            "batch_size": 100,
+            "epoch_time": 2.8120419602645073,
+            "GPUs": 1
+        },
+        "70": {
+            "batch_size": 70,
+            "epoch_time": 3.1096286020780863,
+            "GPUs": 1
+        },
+        "200": {
+            "batch_size": 200,
+            "epoch_time": 3.0911629325465153,
+            "GPUs": 1
+        },
+        "10": {
+            "batch_size": 10,
+            "epoch_time": 2.548311609970896,
+            "GPUs": 1
+        },
+        "300": {
+            "batch_size": 300,
+            "epoch_time": 3.032433873728702,
+            "GPUs": 1
+        },
+        "400": {
+            "batch_size": 400,
+            "epoch_time": 3.073709563205117,
+            "GPUs": 1
+        },
+        "50": {
+            "batch_size": 50,
+            "epoch_time": 3.213199126093011,
+            "GPUs": 1
+        },
+        "20": {
+            "batch_size": 20,
+            "epoch_time": 3.5815406096609017,
+            "GPUs": 1
+        },
+        "150": {
+            "batch_size": 150,
+            "epoch_time": 2.8170956937890304,
+            "GPUs": 1
+        },
+        "600": {
+            "batch_size": 600,
+            "epoch_time": 2.9887865217108476,
+            "GPUs": 1
+        },
+        "500": {
+            "batch_size": 500,
+            "epoch_time": 3.0992954906664396,
+            "GPUs": 1
+        },
+        "30": {
+            "batch_size": 30,
+            "epoch_time": 3.393782879176893,
+            "GPUs": 1
+        }
+    },
+    "2": {
+        "100": {
+            "batch_size": 100,
+            "epoch_time": 1.774547727484452,
+            "GPUs": 2
+        },
+        "70": {
+            "batch_size": 70,
+            "epoch_time": 1.8727462542684454,
+            "GPUs": 2
+        },
+        "200": {
+            "batch_size": 200,
+            "epoch_time": 1.5967313113965487,
+            "GPUs": 2
+        },
+        "10": {
+            "batch_size": 10,
+            "epoch_time": 2.554647947612562,
+            "GPUs": 2
+        },
+        "300": {
+            "batch_size": 300,
+            "epoch_time": 1.520597583369205,
+            "GPUs": 2
+        },
+        "400": {
+            "batch_size": 400,
+            "epoch_time": 1.6726372116490413,
+            "GPUs": 2
+        },
+        "50": {
+            "batch_size": 50,
+            "epoch_time": 1.8892321837575812,
+            "GPUs": 2
+        },
+        "20": {
+            "batch_size": 20,
+            "epoch_time": 1.4246671827215898,
+            "GPUs": 2
+        },
+        "150": {
+            "batch_size": 150,
+            "epoch_time": 1.735464472519724,
+            "GPUs": 2
+        },
+        "600": {
+            "batch_size": 600,
+            "epoch_time": 1.6769584480084871,
+            "GPUs": 2
+        },
+        "500": {
+            "batch_size": 500,
+            "epoch_time": 1.6393003212778192,
+            "GPUs": 2
+        },
+        "30": {
+            "batch_size": 30,
+            "epoch_time": 1.925452144522416,
+            "GPUs": 2
+        }
+    },
+    "3": {
+        "100": {
+            "batch_size": 100,
+            "epoch_time": 1.287050347579153,
+            "GPUs": 3
+        },
+        "70": {
+            "batch_size": 70,
+            "epoch_time": 1.3451294397052966,
+            "GPUs": 3
+        },
+        "200": {
+            "batch_size": 200,
+            "epoch_time": 1.1988678103999089,
+            "GPUs": 3
+        },
+        "10": {
+            "batch_size": 10,
+            "epoch_time": 2.5232628772133276,
+            "GPUs": 3
+        },
+        "300": {
+            "batch_size": 300,
+            "epoch_time": 1.1452033770711798,
+            "GPUs": 3
+        },
+        "400": {
+            "batch_size": 400,
+            "epoch_time": 1.0693045164409436,
+            "GPUs": 3
+        },
+        "50": {
+            "batch_size": 50,
+            "epoch_time": 1.3786559481369822,
+            "GPUs": 3
+        },
+        "20": {
+            "batch_size": 20,
+            "epoch_time": 1.6831973226446855,
+            "GPUs": 3
+        },
+        "150": {
+            "batch_size": 150,
+            "epoch_time": 1.217587019267835,
+            "GPUs": 3
+        },
+        "600": {
+            "batch_size": 600,
+            "epoch_time": 1.2279029770901329,
+            "GPUs": 3
+        },
+        "500": {
+            "batch_size": 500,
+            "epoch_time": 1.1124325426001298,
+            "GPUs": 3
+        },
+        "30": {
+            "batch_size": 30,
+            "epoch_time": 1.0745876588319476,
+            "GPUs": 3
+        }
+    },
+    "4": {
+        "100": {
+            "batch_size": 100,
+            "epoch_time": 1.0450067018207752,
+            "GPUs": 4
+        },
+        "70": {
+            "batch_size": 70,
+            "epoch_time": 1.097802576265837,
+            "GPUs": 4
+        },
+        "200": {
+            "batch_size": 200,
+            "epoch_time": 1.012659411681326,
+            "GPUs": 4
+        },
+        "10": {
+            "batch_size": 10,
+            "epoch_time": 2.4473349169680945,
+            "GPUs": 4
+        },
+        "300": {
+            "batch_size": 300,
+            "epoch_time": 0.9987335832495439,
+            "GPUs": 4
+        },
+        "400": {
+            "batch_size": 400,
+            "epoch_time": 0.9190805083826968,
+            "GPUs": 4
+        },
+        "50": {
+            "batch_size": 50,
+            "epoch_time": 0.8538797654603657,
+            "GPUs": 4
+        },
+        "20": {
+            "batch_size": 20,
+            "epoch_time": 1.540346622467041,
+            "GPUs": 4
+        },
+        "150": {
+            "batch_size": 150,
+            "epoch_time": 1.021375769063046,
+            "GPUs": 4
+        },
+        "600": {
+            "batch_size": 600,
+            "epoch_time": 0.9096505516453793,
+            "GPUs": 4
+        },
+        "500": {
+            "batch_size": 500,
+            "epoch_time": 0.8626716889833149,
+            "GPUs": 4
+        },
+        "30": {
+            "batch_size": 30,
+            "epoch_time": 1.3285899287775944,
+            "GPUs": 4
+        }
+    }
+}
